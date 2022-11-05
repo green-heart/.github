@@ -1,6 +1,12 @@
 # Green Heart
 
-<img src="https://raw.githubusercontent.com/green-heart/.github/main/profile/images/apresentation.jpg" title="project apresentation">
+<img src="https://github.com/green-heart/.github/blob/main/profile/images/Green%20heart.png?raw=true" title="project apresentation">
+
+## 💻 Technologies
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,git,github,nodejs,express,nest,mysql,react,figma,vscode " />
+</a>
 
 ## 🎓 Project Members
 
