@@ -1,6 +1,18 @@
-# Green Heart
+# 💚 Green Heart 
 
+<a href="https://green-heart.onrender.com">
 <img src="https://github.com/green-heart/.github/blob/main/profile/images/Green%20heart.png?raw=true" title="project apresentation">
+</a>
+
+## 💬 Description
+
+Our project is based on the [United Nations](https://sdgs.un.org/goals)' [Sustainable Development Goal 13](https://sdgs.un.org/goals/goal13) (Climate Action).
+
+The Green Heart Project consists of a social network with the objective of mobilizing people engaged in the fight against climate change to organize themselves in a single platform focused on the care of the planet.
+
+## 👨‍🎓 About us 👩‍🎓
+
+We are participants of [Programadores Cariocas](https://www.eduardopaes.com.br/programadores-cariocas-inscricoes-abertas-para-jovens-de-17-a-29-anos-no-programa-da-prefeitura-do-rio/) project. a program by the city of Rio de Janeiro that seeks young people in economic vulnerability to teach them how to take their first steps in a developer career. From this program we were able to participate in the fullstack javascript bootcamp at [Generation Brazil](https://brazil.generation.org/), which gave us the knowledge and possible tools to develop this project.
 
 ## 💻 Technologies
 
