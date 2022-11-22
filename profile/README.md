@@ -73,7 +73,7 @@ We are participants of [Programadores Cariocas](https://www.eduardopaes.com.br/p
          </sub> 
     </td>
          <td align="center">
-      <a href="https://github.com/ArthurMFarias0"> <img src="https://media-exp1.licdn.com/dms/image/D4D35AQG1Pn5bbeL6Mg/profile-framedphoto-shrink_800_800/0/1663801892840?e=1668268800&v=beta&t=V9XTncJQb3_XUM4cMiFv59dsDWDGSma18pN7vh3tRhg" width="200px;"> 
+      <a href="https://github.com/ArthurMFarias0"> <img src="https://avatars.githubusercontent.com/u/112709178?v=4" width="200px;"> 
         <br>
           <b>Arthur<br>Farias</b>
       </a>
