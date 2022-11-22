@@ -17,7 +17,7 @@ We are participants of [Programadores Cariocas](https://www.eduardopaes.com.br/p
 ## 💻 Technologies
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,git,github,nodejs,express,nest,mysql,react,figma,vscode " />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,bootstrap,git,github,nodejs,express,nest,mysql,react,materialui,figma,vscode " />
 </a>
 
 ## 🎓 Project Members
