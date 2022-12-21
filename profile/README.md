@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/O82chLB.png" title="project apresentation">
 </a>
 
-## 💬 Description
+## 💬 Descrição
 
 Somos o Green Heart, uma rede social que tem como objetivo mobilizar e unir pessoas engajadas em reduzir os impactos das mudanças climáticas no planeta.
 Unidos para conscientizar outras pessoas a fazer a diferença.
@@ -13,17 +13,17 @@ Nosso projeto é baseado na [ODS](https://sdgs.un.org/goals) (Objetivos de Desen
 
 Juntos fazemos a diferença, mobilizar pessoas é um ato de cuidado. 
 
-## 👨‍🎓 About us 👩‍🎓
+## 👨‍🎓 Sobre nós 👩‍🎓
 
 Somos participantes do projeto [Programadores Cariocas](https://prefeitura.rio/desenvolvimento-economico-inovacao-simplificacao/iniciativa-capacita-em-programacao-jovens-vulneraveis-priorizando-refugiados-negros-mulheres-e-transgeneros/). Um programa da prefeitura do Rio de Janeiro que busca jovens em vulnerabilidade econômica para orientá-los a dar seus primeiros passos no mercado de programação. A partir deste projeto pudemos do bootcamp full-stack javascript, ministrado pela [Generation Brazil](https://brazil.generation.org/), que nos deu todas o conhecimento e ferramentas necessárias para desenvolver este projeto. 
 
-## 💻 Technologies
+## 💻 Tecnologias
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,bootstrap,git,github,nodejs,express,nest,mysql,react,materialui,figma,vscode " />
 </a>
 
-## 🎓 Project Members
+## 🎓 Membros do projeto
 
 <table>
   <tr>
