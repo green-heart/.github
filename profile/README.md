@@ -1,18 +1,21 @@
 # 💚 Green Heart 
 
 <a href="https://green-heart.onrender.com">
-<img src="https://github.com/green-heart/.github/blob/main/profile/images/Green%20heart.png?raw=true" title="project apresentation">
+<img src="https://i.imgur.com/O82chLB.png" title="project apresentation">
 </a>
 
 ## 💬 Description
 
-Our project is based on the [United Nations](https://sdgs.un.org/goals)' [Sustainable Development Goal 13](https://sdgs.un.org/goals/goal13) (Climate Action).
+Somos o Green Heart, uma rede social que tem como objetivo mobilizar e unir pessoas engajadas em reduzir os impactos das mudanças climáticas no planeta.
+Unidos para conscientizar outras pessoas a fazer a diferença.
 
-The Green Heart Project consists of a social network with the objective of mobilizing people engaged in the fight against climate change to organize themselves in a single platform focused on the care of the planet.
+Nosso projeto é baseado na [ODS](https://sdgs.un.org/goals) (Objetivos de Desenvolvimento Sustentável) 13 que trabalha em prol de combater as mudanças climáticas e ajudar no desenvolvimento do nosso planeta. 
+
+Juntos fazemos a diferença, mobilizar pessoas é um ato de cuidado. 
 
 ## 👨‍🎓 About us 👩‍🎓
 
-We are participants of [Programadores Cariocas](https://www.eduardopaes.com.br/programadores-cariocas-inscricoes-abertas-para-jovens-de-17-a-29-anos-no-programa-da-prefeitura-do-rio/) project. a program by the city of Rio de Janeiro that seeks young people in economic vulnerability to teach them how to take their first steps in a developer career. From this program we were able to participate in the fullstack javascript bootcamp at [Generation Brazil](https://brazil.generation.org/), which gave us the knowledge and possible tools to develop this project.
+Somos participantes do projeto [Programadores Cariocas](https://prefeitura.rio/desenvolvimento-economico-inovacao-simplificacao/iniciativa-capacita-em-programacao-jovens-vulneraveis-priorizando-refugiados-negros-mulheres-e-transgeneros/). Um programa da prefeitura do Rio de Janeiro que busca jovens em vulnerabilidade econômica para orientá-los a dar seus primeiros passos no mercado de programação. A partir deste projeto pudemos do bootcamp full-stack javascript, ministrado pela [Generation Brazil](https://brazil.generation.org/), que nos deu todas o conhecimento e ferramentas necessárias para desenvolver este projeto. 
 
 ## 💻 Technologies
 
@@ -25,7 +28,7 @@ We are participants of [Programadores Cariocas](https://www.eduardopaes.com.br/p
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Anttonino"><img src="https://avatars.githubusercontent.com/u/99145534?v=4" width=200px;>
+      <a href="https://github.com/Anttonino"><img src="https://i.imgur.com/Bjmkvbi.jpg" width="200px;">
         <br>
         <b>Victor<br>Antonino</b>
       </a>
@@ -61,7 +64,7 @@ We are participants of [Programadores Cariocas](https://www.eduardopaes.com.br/p
          </sub> 
     </td>
      <td align="center">
-      <a href="https://github.com/Popdollss"> <img src="https://avatars.githubusercontent.com/u/112709048?v=4" width="200px;"> 
+      <a href="https://github.com/Popdollss"> <img src="https://media.discordapp.net/attachments/1049282802560008232/1052607922384941106/138320927_2108141845989118_2803333994106948376_n_resized.jpg" width="200px;"> 
         <br>
           <b>Roseane<br>Melo</b>
       </a>
@@ -97,7 +100,7 @@ We are participants of [Programadores Cariocas](https://www.eduardopaes.com.br/p
          </sub> 
     </td>
          <td align="center">
-      <a href="https://github.com/KaiqueBourguignon"> <img src="https://avatars.githubusercontent.com/u/112709239?v=4" width="200px;"> 
+      <a href="https://github.com/KaiqueBourguignon"> <img src="https://i.imgur.com/mxx5vmy.jpg" width="200px;"> 
         <br>
           <b>Kaique<br>Bourguignon </b>
       </a>
